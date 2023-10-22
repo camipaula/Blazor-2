@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVvdSZE5p/jZFgXsnooxQ62cVTBuyqBbh/G9GeAr1QaLOjL52ShFQsqsgxBHdxLr4iazrg9WdOvQxF1/Da61kQ==",
+  "dgSpecHash": "4oR8imJIzulJQdsj8sLf1jMiWzh4BkwA98+H85VoJVEnYjqB+zSuOWr0vQDJP/A0FjLhxvYBGhIRBtR827u2qQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tania\\source\\repos\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "C:\\Users\\tania\\Source\\Repos\\Blazor-2\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tania\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\tania\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
